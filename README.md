@@ -15,11 +15,9 @@ The following **required** functionality is completed:
 * [x] Toast with message appears when button is pressed 
 
 <!-- Replace this with whatever GIF tool you used! -->
+<img src='app/helloworldgif.gif' title='HelloWorld Walkthrough' width='' alt='HelloWorld GIF Walkthrough ' />
+
 GIF created with ScreenToGif  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
